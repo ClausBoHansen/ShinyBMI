@@ -1,0 +1,12 @@
+name: ShinyBMI
+title: ShinyBMI
+username:
+account: clausbohansen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1337943
+bundleId: 2506289
+url: https://clausbohansen.shinyapps.io/ShinyBMI/
+when: 1571253231.27654
+asMultiple: FALSE
+asStatic: FALSE
